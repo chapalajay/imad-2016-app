@@ -6,10 +6,18 @@ var app = express();
 app.use(morgan('combined'));
 
 var content = {
-    title :
-    heading:
-    date:
-    content:
+    title : 'Article I || Jay Chapala',
+    heading:'Article I',
+    date:'Sep 5,2016',
+    content: `<p>
+         This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article.v This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article.
+     </p>
+      <p>
+         This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article.v This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article.
+     </p>
+      <p>
+         This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article.v This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article. This the content for my first article.
+     </p>`
     
 };
 
